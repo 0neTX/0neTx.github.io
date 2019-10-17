@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 paginate: 5
-future: true
 plugins:
   - jekyll-paginate
